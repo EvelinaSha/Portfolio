@@ -87,7 +87,7 @@ img {
     height: 409px;
     background-color: #fbe8d9;
     border-radius: 50%;
-    background-image: url(../img/main\ photo.jpg);
+    background-image: url(../img/main\ photo.png);
     background-repeat: no-repeat;
     background-position: center top;
     border: 13px solid #34666f;
@@ -376,7 +376,7 @@ img {
         height: 259px;
         border-width: 6px;
         margin-bottom: 17px;
-        background-image: url(../img/main\ photo.jpg)
+        background-image: url(../img/main\ photo.png)
     }
     .hero-subtitle {
         margin-right: 144px;
